@@ -1,9 +1,9 @@
 ---
-title: "Alexandra Akaakar"
-email: lexiiakaakar@gmail.com
+title: "Sexxii_Lexii"
+email: chocolatethoughtsxx@gmail.com
 highlight_name: yes
 superuser: yes
-bio: "I am a highly motivated R programmer and statistical analyst dedicated to detail and collaboration"
+bio: "I am a highly motivated R programmer and writer"
 
 education: "Master of Science in Agribusiness Economics"
 courses:
@@ -28,7 +28,7 @@ organizations:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:LEXIIAKAAKAR@GMAIL.COM"
+    link: "mailto:chocolatethoughtsxx@GMAIL.COM"
   - icon: X
     icon_pack: fab
     label: "Find me on X"
@@ -44,23 +44,15 @@ social:
     link: "https://github.com/kinglexii/kinglexii/blob/master/Akaakar%20Resume%20SAS%20SQL.docx"
 ---
 
-
-I am a highly motivated  [**Statistical Programmer and Consultant**](https://github.com/kinglexii) 
-dedicated to detail and collaboration.  
-
-In my previous experience, I have successfully managed, analyzed, and visualized complex healthcare and 
-public health data using tools such as R, SAS, and Tableau. 
-
-I am passionate about the computational applications of statistical analysis to create reusable data pipelines that enhance 
-research reproducibility and accessibility.  
+***ICHOR***  THE BLOOD OF THE GODS,
 
 
-In addition to my substantive work in Data Analysis, I am interested in Mathematics, Genomics  and research methods. 
 
-My favorite Thing to do is Crochet and I am weirdly 
-evangelical about it. 
+___THIS IS A COLLECTION OF STORIES___
 
 
-In my free time, I enjoy reading, deadlifting, swimming, and taking card games much too seriously. 
+
+---
 
 
+LEXXXII
