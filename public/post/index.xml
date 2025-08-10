@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
-    <link>//localhost:4321/</link>
-    <description>Recent content on A Hugo website</description>
+    <title>Posts on A Hugo website</title>
+    <link>//localhost:4321/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Genesis Story...</title>
       <link>//localhost:4321/2025/07/18/the-genesis-story/</link>
@@ -21,13 +21,6 @@
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       <guid>//localhost:4321/2015/01/01/apostles-creed/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In nomine Patris, et Filii, et Spiritus Sancti. Amen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae.&lt;/p&gt;&#xA;&lt;p&gt;Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine,&lt;/p&gt;&#xA;&lt;p&gt;passus sub Pontio Pilato, crucifixus, mortuus, et sepultus, descendit ad infernos, tertia die resurrexit a mortuis, ascendit&lt;/p&gt;&#xA;&lt;p&gt;ad caelos, sedet ad dexteram Dei Patris omnipotentis, inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Sexxii_Lexii</title>
-      <link>//localhost:4321/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:4321/about/</guid>
-      <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;ICHOR&lt;/strong&gt;&lt;/em&gt;  THE BLOOD OF THE GODS,&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;THIS IS A COLLECTION OF STORIES&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;LEXXXII&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
