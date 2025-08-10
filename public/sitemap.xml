@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:4321/</loc>
+    <loc>//localhost:4533/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/</loc>
+    <loc>//localhost:4533/categories/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/post/</loc>
+    <loc>//localhost:4533/post/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/categories/r/</loc>
+    <loc>//localhost:4533/categories/r/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2025/07/18/the-genesis-story/</loc>
+    <loc>//localhost:4533/2025/07/18/the-genesis-story/</loc>
     <lastmod>2025-07-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/2015/01/01/apostles-creed/</loc>
+    <loc>//localhost:4533/2015/01/01/apostles-creed/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/about/</loc>
+    <loc>//localhost:4533/about/</loc>
   </url><url>
-    <loc>//localhost:4321/tags/</loc>
+    <loc>//localhost:4533/tags/</loc>
   </url>
 </urlset>
