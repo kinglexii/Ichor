@@ -1,6 +1,6 @@
-baseurl: /
+baseurl: 'https://ichor.netlify.app/'
 languageCode: en-US
-title: A Hugo website
+title: ICHOR
 theme: hugo-lithium
 ignoreFiles:
   - \.Rmd$
