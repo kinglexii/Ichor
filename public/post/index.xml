@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ICHOR</title>
-    <link>//localhost:4533/post/</link>
+    <link>http://localhost:4321/post/</link>
     <description>Recent content in Posts on ICHOR</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:4533/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:4321/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Genesis Story...</title>
-      <link>//localhost:4533/2025/07/18/the-genesis-story/</link>
+      <link>http://localhost:4321/2025/07/18/the-genesis-story/</link>
       <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:4533/2025/07/18/the-genesis-story/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;-the-genesis-of-ichor&#34;&gt;🌹 The Genesis of &lt;em&gt;ichor&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Detailing the Sauce.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for content on building your own technical path&amp;mdash;from dashboards to spatial modeling to FAIR data frameworks. I&amp;rsquo;ll be sharing lessons, templates, and stories to guide fellow changemakers along the way.&lt;/p&gt;&#xA;&lt;p&gt;Thank you for being here. 🌱&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Optimus_Prime&lt;/p&gt;</description>
+      <guid>http://localhost:4321/2025/07/18/the-genesis-story/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;-the-genesis-of-ichor&#34;&gt;🌹 The Genesis of &lt;em&gt;ichor&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Detailing the Sauce.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Optimus_Prime&lt;/p&gt;</description>
     </item>
     <item>
       <title>Apostles&#39; Creed</title>
-      <link>//localhost:4533/2015/01/01/apostles-creed/</link>
+      <link>http://localhost:4321/2015/01/01/apostles-creed/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      <guid>//localhost:4533/2015/01/01/apostles-creed/</guid>
+      <guid>http://localhost:4321/2015/01/01/apostles-creed/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In nomine Patris, et Filii, et Spiritus Sancti. Amen&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae.&lt;/p&gt;&#xA;&lt;p&gt;Et in Iesum Christum, Filium eius unicum, Dominum nostrum, qui conceptus est de Spiritu Sancto, natus ex Maria Virgine,&lt;/p&gt;&#xA;&lt;p&gt;passus sub Pontio Pilato, crucifixus, mortuus, et sepultus, descendit ad infernos, tertia die resurrexit a mortuis, ascendit&lt;/p&gt;&#xA;&lt;p&gt;ad caelos, sedet ad dexteram Dei Patris omnipotentis, inde venturus est iudicare vivos et mortuos. Credo in Spiritum Sanctum,&lt;/p&gt;</description>
     </item>
   </channel>
