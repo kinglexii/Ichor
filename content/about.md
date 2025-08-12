@@ -3,13 +3,13 @@ title: "ICHOR"
 email: chocolatethoughtsxx@gmail.com
 highlight_name: yes
 superuser: yes
-bio: "
+bio: ""
 
-
-anizations:
+organizations:
   - name: "Strategic Vision Consulting"
     url: "https://www.linkedin.com/in/alexandraakaakar/"
     role: "HBIC"
+
 
 social:
   - icon: envelope
