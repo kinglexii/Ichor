@@ -6,7 +6,7 @@ superuser: yes
 bio: "
 
 
-organizations:
+anizations:
   - name: "Strategic Vision Consulting"
     url: "https://www.linkedin.com/in/alexandraakaakar/"
     role: "HBIC"
