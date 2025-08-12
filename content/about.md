@@ -10,6 +10,7 @@ organizations:
     url: "https://www.linkedin.com/in/alexandraakaakar/"
     role: "HBIC"
 
+
 social:
   - icon: envelope
     icon_pack: fas
