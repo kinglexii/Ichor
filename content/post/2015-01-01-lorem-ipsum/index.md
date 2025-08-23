@@ -1,9 +1,12 @@
 ---
-date: "2015-01-01T13:09:13-06:00"
 title: The Seductress...
+author: prime
+date: '2015-01-01'
 ---
 
  
+---
+
 She knows what you really want
 giving it to you in ways that take your breath away.
 
@@ -16,4 +19,4 @@ no footsteps, haunting blooms of promised pleasures
 
 ---
 
-Lexii
+prime
